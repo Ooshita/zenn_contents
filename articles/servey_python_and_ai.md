@@ -1,3 +1,11 @@
+---
+title: "PythonとAI開発まわりの調査" # 記事のタイトル
+emoji: "😸" # アイキャッチとして使われる絵文字（1文字だけ）
+type: "tech" # tech: 技術記事 / idea: アイデア記事
+topics: ["python","ai", "ml"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: true # 公開設定（falseにすると下書き）
+---
+
 # Python＆AIまわりの新しめのサービス
 
 - [Poetry](https://github.com/python-poetry/poetry)
