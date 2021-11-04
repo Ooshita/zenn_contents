@@ -16,7 +16,7 @@ https://www.comet.ml
 
 ![](https://storage.googleapis.com/zenn-user-upload/2cf6869f314d558f7e01df4d.jpg)
 
-あとはcometにある[サンプルコード](https://www.comet.ml/docs/python-sdk/pytorch/)を実行して、以下のようなURLをクリックすると別タブでサイトが開かれてログをリアルタイムで観察できます。   
+あとはcometにある[サンプルコード](https://www.comet.ml/docs/python-sdk/pytorch/)を実行して、以下のようなcolabの実行ログのURLをクリックすると別タブでサイトが開かれてログをリアルタイムで観察できます。   
 
 `https://www.comet.ml/oshita-n/general/aaaaaaaaaaaaaaaaaa`
 
