@@ -14,11 +14,10 @@ https://www.comet.ml
 
 そして、アカウントの画像にあるメニューから「Quickstart guide」をクリックすると、認証するためのソースコードが表示できます。  
 
-![comet](../img/comet.jpg)
-
+![](https://storage.googleapis.com/zenn-user-upload/2cf6869f314d558f7e01df4d.jpg)
 
 あとはcometにある[サンプルコード](https://www.comet.ml/docs/python-sdk/pytorch/)を実行して、以下のようなURLをクリックすると別タブでサイトが開かれてログをリアルタイムで観察できます。   
 
 `https://www.comet.ml/oshita-n/general/aaaaaaaaaaaaaaaaaa`
 
-![comet2](../img/comet2.jpg)
+![](https://storage.googleapis.com/zenn-user-upload/4db039b978256ace322d8930.jpg)
